@@ -20,9 +20,14 @@ Second-year CSE-AI student crafting Android apps with Jetpack Compose and a pinc
 ![ViewModel](https://img.shields.io/badge/ViewModel-3DDC84?style=flat&logo=android&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-Learning-blueviolet?style=flat)
 ![Coil](https://img.shields.io/badge/Coil-FA7343?style=flat)
+
+---
+
+### 🧰 Tools & Platforms  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
